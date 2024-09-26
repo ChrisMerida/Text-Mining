@@ -4,7 +4,7 @@ El proyecto abarca ejercicios donde se aplican ténicas de Text Mining & Image R
 
 ### Archivos
 1. word_cloud.ipynb - Solución ejercicio 1
-2. f_v_recognizer.ipynb - Solución ejercicio 2
+2. f_v_recognizer.ipynb - Solución ejercicio 2  
 <span style="color: red"> No sé cargo tw_source.csv </span>
 <span style="color: red"> No sé cargo Fruits_Vegetables_Dataset(12000) </span>  
 
